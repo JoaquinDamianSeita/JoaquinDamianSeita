@@ -14,5 +14,5 @@ Mi nombre es Joaquin Seita, soy un programador jr actualmente capacitándome en 
 <li>:computer: Algunas tecnologias que me interesan aprender: Bases de datos relacionales (SQL), React.js, React Hooks, desarrollo web .NET</li>
 </ul><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquinDamianSeita&theme=white)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquinDamianSeita&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinDamianSeita&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
