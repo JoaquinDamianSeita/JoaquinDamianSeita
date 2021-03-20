@@ -6,7 +6,7 @@ Mi nombre es Joaquin Seita, soy un programador jr actualmente capacitándome en 
 <h2>Mas sobre mi:</h2>
 
 <ul>
-<li>:white_check_mark: Soy un estudiante autodidacta de las nuevas tecnologías en busqueda de seguir aprendiendo y desarrollando mis habilidades</li>
+<li>:white_check_mark: Soy un estudiante autodidacta de las nuevas tecnologías en búsqueda de seguir aprendiendo y desarrollando mis habilidades</li>
 <li>:books: Me estoy capacitando como desarrollador web con orientación hacia el backend</li>
 <li>:mailbox_with_mail: Contactame: <a href="mailto:joaquindamianseita@gmail.com">joaquindamianseita@gmail.com</a></li>
 <li>:green_heart: Estoy interesado en el desarrollo web y de software</li>
