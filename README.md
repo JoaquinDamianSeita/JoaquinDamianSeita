@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**JoaquinDamianSeita/JoaquinDamianSeita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Programador Jr</h1>
 
-Here are some ideas to get you started:
+Mi nombre es Joaquin Seita, soy un programador jr actualmente capacitándome en desarrollo web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Mas sobre mi:</h2>
+
+<ul>
+<li>:white_check_mark: Soy un estudiante autodidacta de las nuevas tecnologías en busqueda de seguir aprendiendo y desarrollando mis habilidades</li>
+<li>:books: Me estoy capacitando como desarrollador web con orientación hacia el backend</li>
+<li>:mailbox_with_mail: Contactame: <a href="mailto:joaquindamianseita@gmail.com">joaquindamianseita@gmail.com</a></li>
+<li>:green_heart: Estoy interesado en el desarrollo web y de software</li>
+<li>:computer: Algunas tecnologias con las que trabajé: Python (Pygame), C# (Unity), Javascript (Node.js), HTML, CSS, MongoDB</li>
+<li>:computer: Algunas tecnologias que me interesan aprender: Bases de datos relacionales (SQL), React.js, React Hooks, desarrollo web .NET</li>
+</ul><br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquinDamianSeita&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinDamianSeita&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
