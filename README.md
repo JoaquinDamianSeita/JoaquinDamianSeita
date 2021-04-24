@@ -6,8 +6,8 @@ Mi nombre es Joaquin Seita, soy un programador jr actualmente capacitándome en 
 <h2>Mas sobre mi:</h2>
 
 <ul>
-<li>:white_check_mark: Soy un estudiante autodidacta de las nuevas tecnologías en búsqueda de seguir aprendiendo y progresando</li>
-<li>:books: Me estoy capacitando como desarrollador web con orientación hacia el backend</li>
+<li>:white_check_mark: Soy un estudiante autodidacta de las nuevas tecnologías en búsqueda de seguir aprendiendo y progresar</li>
+<li>:books: Me estoy capacitando como desarrollador web Full-Stack con MERN</li>
 <li>:mailbox_with_mail: Contactame: <a href="mailto:joaquindamianseita@gmail.com">joaquindamianseita@gmail.com</a></li>
 <li>:green_heart: Estoy interesado en el desarrollo web y de software</li>
 <li>:computer: Algunas tecnologias con las que trabajé: Python (Pygame), C# (Unity), Javascript (Node.js), HTML, CSS, MongoDB,React.js, React Hooks,</li>
