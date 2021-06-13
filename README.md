@@ -1,7 +1,7 @@
 
-<h1>Programador Jr</h1>
+<h1>Web developer Jr</h1>
 
-Mi nombre es Joaquin Seita, soy un programador jr actualmente capacitándome en desarrollo web
+Mi nombre es Joaquin Seita, soy un Web developer jr.
 
 <h2>Mas sobre mi:</h2>
 
