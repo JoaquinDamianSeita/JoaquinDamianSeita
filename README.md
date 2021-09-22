@@ -6,7 +6,7 @@ Mi nombre es Joaquin Seita, soy un Web developer jr.
 <h2>Mas sobre mi:</h2>
 
 <ul>
-<li>:white_check_mark: Soy un desarrollador web autodidacta, pricipalmente trabajo con MERN </li>
+<li>:white_check_mark: Soy un desarrollador web autodidacta, estoy utilizando el stack MERN para mis proyectos</li>
 <li>:books: Estoy en busqueda de una oportunidad que me permita seguir aprendiendo y progresar</li>
 <li>:mailbox_with_mail: Contactame: <a href="mailto:joaquindamianseita@gmail.com">joaquindamianseita@gmail.com</a></li>
 <li>:green_heart: Estoy interesado en el desarrollo web y de software</li>
