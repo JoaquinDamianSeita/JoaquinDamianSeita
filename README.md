@@ -1,5 +1,5 @@
 
-<h1>Web developer Jr</h1>
+<h1>Web developer</h1>
 
 Mi nombre es Joaquin Seita, soy un desarrollador web.
 
