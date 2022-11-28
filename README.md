@@ -1,7 +1,7 @@
 
 <h1>Web developer</h1>
 
-Mi nombre es Joaquin Seita, soy un desarrollador web.
+Mi nombre es Joaquin Seita, soy un Desarrollador Web.
 
 <h2>Mas sobre mi:</h2>
 
