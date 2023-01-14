@@ -13,6 +13,3 @@ Mi nombre es Joaquin Seita, soy un Desarrollador Web.
 <li>:computer: Algunas tecnologias con las que trabajé: Apache Camel (Java SOAP Y REST), Ruby on Rails API's, Node.js (express), HTML, CSS, MongoDB, React.js, Bases de datos SQL, Python (Pygame), C# (Unity), Electron.js</li>
 <li>:computer: Algunas tecnologias que me interesan aprender: .NET, DApps, Solidity, Unity3D, Flutter, React Native</li>
 </ul><br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquinDamianSeita&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinDamianSeita&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
