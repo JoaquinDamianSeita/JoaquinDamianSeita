@@ -13,3 +13,5 @@ Mi nombre es Joaquin Seita, soy un Desarrollador Web.
 <li>:computer: Algunas tecnologias con las que trabajé: Ruby on Rails API's, Golang, Apache Camel (Java SOAP Y REST), Node.js (express), HTML, CSS, MongoDB, React.js, Bases de datos SQL, Python (Pygame), C# (Unity), Electron.js</li>
 <li>:computer: Algunas tecnologias que me interesan aprender: Golang, .NET, Unity3D, Flutter, React Native</li>
 </ul><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaquinDamianSeita&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
